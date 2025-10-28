@@ -1,6 +1,8 @@
 # Orbiter
 ORBITER PRIME: A Platform for Encrypted Solana Applications
 
+https://gemini.google.com/share/7112490d7239
+
 ORBITER PRIME is a conceptual, high-impact platform that utilizes Arcium's Secure Compute Environment (SCE) to bring unparalleled privacy and integrity to decentralized applications built on Solana. By outsourcing sensitive computation (like matching orders or dealing game hands) to a private, encrypted layer, ORBITER PRIME ensures that critical information remains hidden from all external parties, including validators and sequencers.
 
 The Core Mission: Zero-Trust Privacy
@@ -65,8 +67,6 @@ Solana Integration: Solana serves as the Level 1 Settlement Layer, managing user
 
 Arcium Compute: Arcium acts as the Level 2 Confidential Compute Layer, running complex, data-sensitive functions like order matching and card drawing on the encrypted data payload. The security guarantee is provided by Arcium's cryptographic integrity proofs.
 The ORBITER Gateway Execution Console is a simulated application designed to showcase the power and efficiency of integrating with the Sanctum Gateway API. It allows users to execute high-value, time-sensitive atomic swaps with two major guarantees: Guaranteed Confirmation Speed and Zero-Loss Reversion.
-
-https://gemini.google.com/share/026630254d2e
 
 Strategic Impact of ORBITER PRIME
 
