@@ -3,6 +3,13 @@ ORBITER PRIME: A Platform for Encrypted Solana Applications
 
 https://gemini.google.com/share/7112490d7239
 
+![IMG_1326](https://github.com/user-attachments/assets/09b06752-dadf-41ec-86ed-44a5f2c8b69f)
+
+
+<img width="1536" height="1024" alt="IMG_1318" src="https://github.com/user-attachments/assets/29646be4-6696-49f7-9d42-13580769f5dd" />
+
+
+
 ORBITER PRIME is a conceptual, high-impact platform that utilizes Arcium's Secure Compute Environment (SCE) to bring unparalleled privacy and integrity to decentralized applications built on Solana. By outsourcing sensitive computation (like matching orders or dealing game hands) to a private, encrypted layer, ORBITER PRIME ensures that critical information remains hidden from all external parties, including validators and sequencers.
 
 The Core Mission: Zero-Trust Privacy
